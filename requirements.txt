@@ -1,0 +1,5 @@
+streamlit
+pyserial
+pillow
+pygame
+numpy
